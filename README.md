@@ -11,7 +11,7 @@ Clear console output for each round
 Winner determination at the end of the game
 
 **Tech Stack:**
-Python 3.x
+Python 3.x(Used 3.8)
 
 **Usage:**
 Clone the repo and run main.py to start a battle between two players.
