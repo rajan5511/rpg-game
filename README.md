@@ -17,4 +17,4 @@ Python 3.x(Used 3.8)
 Clone the repo and run main.py to start a battle between two players.
 
 
-❤️Get me some coffee, please: https://buymeacoffee.com/rajan5511
+❤️Get me some coffee, please: https://ko-fi.com/rajan8890
